@@ -1,0 +1,33 @@
+show,year_first_released,year_last_released,imdb_rating,imdb_normalized,social_score,social_score_normalized,blended_score,ranking,show_id,round1_match,round2_match,round3_match,last_chance_match,finals_match,status,eliminated_by,last_round,votes_in_round1,votes_in_round2,votes_in_round3,votes_in_last_chance,votes_in_finals,votes_total,category,eliminated_in_tied_match,in_last_chance
+Severance,2022,2025,8.7,0.92,18.77,1,1.92,1,s1,Lost Girl,N/A,N/A,TBD,TBD,Eliminated,Lost Girl,1,13,N/A,N/A,TBD,TBD,13,Sci-Fi,No,TBD
+Peaky Blinders,2012,2022,8.7,0.92,4.5,0.22276688453159,1.14276688453159,2,s2,Alias,N/A,N/A,TBD,TBD,Eliminated,Alias,1,12,N/A,N/A,TBD,TBD,12,Drama,No,TBD
+Twin Peaks,1990,2017,8.7,0.92,4.08,0.199891067538126,1.11989106753813,3,s3,Orphan Black,N/A,N/A,TBD,TBD,Eliminated,Orphan Black,1,21,N/A,N/A,TBD,TBD,21,Sci-Fi,No,TBD
+The West Wing,1999,2006,8.9,1,1.68,0.0691721132897604,1.06917211328976,4,s4,Star Trek: Deep Space Nine,Suites,TBD,TBD,TBD,Current,N/A,N/A,28,TBD,TBD,TBD,TBD,28,Drama,N/A,N/A
+X-Files,1993,2018,8.6,0.88,2.64,0.121459694989107,1.00145969498911,5,s5,Lost,Lost Girl,TBD,TBD,TBD,Current,N/A,N/A,24,TBD,TBD,TBD,TBD,24,Sci-Fi,N/A,N/A
+Freaks and Geeks,1999,2000,8.8,0.96,0.89,0.0261437908496732,0.986143790849673,6,s6,The O.C.,Gilmore Girls,TBD,TBD,TBD,Current,N/A,N/A,22,TBD,TBD,TBD,TBD,22,Coming of Age,N/A,N/A
+Battlestar Galactica,2004,2009,8.7,0.92,1.08,0.0364923747276689,0.956492374727669,7,s7,Chuck,Alias,TBD,TBD,TBD,Current,N/A,N/A,24,TBD,TBD,TBD,TBD,24,Drama,N/A,N/A
+Friday Night Lights,2006,2011,8.7,0.92,0.9,0.0266884531590414,0.946688453159041,8,s8,Gossip Girl,Dead Like Me,TBD,TBD,TBD,Current,N/A,N/A,26,TBD,TBD,TBD,TBD,26,Coming of Age,N/A,N/A
+The Newsroom,2012,2014,8.6,0.88,1.4,0.053921568627451,0.933921568627451,9,s9,Suits,N/A,N/A,TBD,TBD,Eliminated,Suits,1,19,N/A,N/A,TBD,TBD,19,Drama,No,TBD
+Buffy the Vampire Slayer,1997,2003,8.3,0.76,3.53,0.169934640522876,0.929934640522876,10,s10,The 100,Tru Blood,TBD,TBD,TBD,Current,N/A,N/A,36,TBD,TBD,TBD,TBD,36,Fantasy,N/A,N/A
+Suits,2011,2019,8.4,0.8,2.7,0.124727668845316,0.924727668845316,11,s11,The Newsroom,The West Wing,TBD,TBD,TBD,Current,N/A,N/A,22,TBD,TBD,TBD,TBD,22,Drama,N/A,N/A
+Westworld,2016,2022,8.4,0.8,2.2,0.0974945533769063,0.897494553376906,12,s12,Fringe,N/A,N/A,TBD,TBD,Eliminated,Fringe,1,14,N/A,N/A,TBD,TBD,14,Sci-Fi,No,TBD
+Gilmore Girls,2000,2007,8.2,0.72,2.9,0.13562091503268,0.855620915032679,13,s13,Happy Endings,Freaks and Geeks,TBD,TBD,TBD,Current,N/A,N/A,27,TBD,TBD,TBD,TBD,27,Coming of Age,N/A,N/A
+Fringe,2008,2013,8.4,0.8,0.97,0.0305010893246187,0.830501089324619,14,s14,Westworld,Orphan Black,TBD,TBD,TBD,Current,N/A,N/A,31,TBD,TBD,TBD,TBD,31,Sci-Fi,N/A,N/A
+My So Called Life,1994,1995,8.4,0.8,0.5155,0.00574618736383442,0.805746187363835,15,s15,Dead Like Me,N/A,N/A,TBD,TBD,Eliminated,Dead Like Me,1,14,N/A,N/A,TBD,TBD,14,Coming of Age,No,TBD
+Lost,2004,2010,8.3,0.76,0.96,0.0299564270152505,0.789956427015251,16,s16,X-Files,N/A,N/A,TBD,TBD,Eliminated,X-Files,1,24,N/A,N/A,TBD,TBD,24,Sci-Fi,Yes,Yes
+Orphan Black,2013,2017,8.3,0.76,0.58,0.00925925925925926,0.769259259259259,17,s17,Twin Peaks,Fringe,TBD,TBD,TBD,Current,N/A,N/A,26,TBD,TBD,TBD,TBD,26,Sci-Fi,N/A,N/A
+Marvel's Agents of S.H.I.E.L.D.,2013,2020,8.2,0.72,1.14,0.039760348583878,0.759760348583878,18,s18,iZombie,N/A,N/A,TBD,TBD,Eliminated,iZombie,1,16,N/A,N/A,TBD,TBD,16,Fantasy,No,TBD
+Chuck,2007,2012,8.2,0.72,0.67,0.014161220043573,0.734161220043573,19,s19,Battlestar Galactica,N/A,N/A,TBD,TBD,Eliminated,Battlestar Galactica,1,18,N/A,N/A,TBD,TBD,18,Drama,No,TBD
+Star Trek: Deep Space Nine,1993,1999,8.1,0.68,1.18,0.0419389978213508,0.721938997821351,20,s20,The West Wing,N/A,N/A,TBD,TBD,Eliminated,The West Wing,1,19,N/A,N/A,TBD,TBD,19,Drama,No,TBD
+Dead Like Me,2003,2004,8.1,0.68,0.5155,0.00574618736383442,0.685746187363834,21,s21,My So Called Life,Friday Night Lights,TBD,TBD,TBD,Current,N/A,N/A,28,TBD,TBD,TBD,TBD,28,Coming of Age,N/A,N/A
+Vampire Diaries,2009,2017,7.7,0.52,2.17,0.0958605664488017,0.615860566448802,22,s22,Once Upon A Time,iZombie,TBD,TBD,TBD,Current,N/A,N/A,23,TBD,TBD,TBD,TBD,23,Fantasy,N/A,N/A
+Once Upon A Time,2011,2018,7.7,0.52,1.76,0.0735294117647059,0.593529411764706,23,s23,Vampire Diaries,N/A,N/A,TBD,TBD,Eliminated,Vampire Diaries,1,23,N/A,N/A,TBD,TBD,23,Fantasy,Yes,Yes
+Marvel’s Jessica Jones,2015,2019,7.8,0.56,0.64,0.0125272331154684,0.572527233115468,24,s24,Tru Blood,N/A,N/A,TBD,TBD,Eliminated,Tru Blood,1,23,N/A,N/A,TBD,TBD,23,Fantasy,No,TBD
+iZombie,2015,2019,7.8,0.56,0.41,0,0.56,25,s25,Marvel's Agents of S.H.I.E.L.D.,Vampire Diaries,TBD,TBD,TBD,Current,N/A,N/A,33,TBD,TBD,TBD,TBD,33,Fantasy,N/A,N/A
+Happy Endings,2011,2013,7.8,0.56,0.5155,0.00574618736383442,0.565746187363834,26,s26,Gilmore Girls,N/A,N/A,TBD,TBD,Eliminated,Gilmore Girls,1,18,N/A,N/A,TBD,TBD,18,Coming of Age,No,TBD
+The 100,2014,2020,7.5,0.44,1.6,0.0648148148148148,0.504814814814815,27,s27,Buffy the Vampire Slayer,N/A,N/A,TBD,TBD,Eliminated,Buffy the Vampire Slayer,1,9,N/A,N/A,TBD,TBD,9,Fantasy,No,Yes
+Alias,2001,2006,7.6,0.48,0.66,0.0136165577342048,0.493616557734205,28,s28,Peaky Blinders,Battlestar Galactica,TBD,TBD,TBD,Current,N/A,N/A,28,TBD,TBD,TBD,TBD,28,Drama,N/A,N/A
+Gossip Girl,2007,2012,7.5,0.44,1.33,0.0501089324618736,0.490108932461874,29,s29,Friday Night Lights,N/A,N/A,TBD,TBD,Eliminated,Friday Night Lights,1,25,N/A,N/A,TBD,TBD,25,Coming of Age,No,TBD
+The O.C.,2003,2007,7.6,0.48,0.5155,0.00574618736383442,0.485746187363834,30,s30,Freaks and Geeks,N/A,N/A,TBD,TBD,Eliminated,Freaks and Geeks,1,18,N/A,N/A,TBD,TBD,18,Coming of Age,No,TBD
+Lost Girl,2010,2016,7.6,0.48,0.5155,0.00574618736383442,0.485746187363834,31,s31,Severance,X-Files,TBD,TBD,TBD,Current,N/A,N/A,20,TBD,TBD,TBD,TBD,20,Sci-Fi,N/A,N/A
+Tru Blood,2008,2014,7.9,0.6,1.58,0.0637254901960784,0.663725490196078,32,s32,Marvel’s Jessica Jones,Buffy the Vampire Slayer,,TBD,TBD,Current,N/A,N/A,24,TBD,TBD,TBD,TBD,24,Fantasy,N/A,N/A
